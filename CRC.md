@@ -1,1 +1,0 @@
-![Alt text](https://github.com/ITCGamesProg2/jp23-as-ad/blob/main/CRC.jpg "CRC_Cards")
