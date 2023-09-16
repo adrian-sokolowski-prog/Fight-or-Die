@@ -1,10 +1,5 @@
 # Project Name
-TODO: Write a project description
-## Installation
-TODO: Describe the installation process
-## Usage
-TODO: Write usage instructions
-
+Fight or Die
 ## Credits
-TODO: Write credits
+Adrian Sokolowski and Anass Doublal
 
